@@ -2,8 +2,5 @@ The Crafted commerce documentation!
 
 ## Doc
 
-Live : [https://bhaveshpp.github.io/gitbook](https://bhaveshpp.github.io/gitbook)
+Live : [SP BOOK](https://bhaveshpp.github.io/spbook)
 
-## How to Get Started
-
-Update document base on your requirements.
