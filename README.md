@@ -2,5 +2,5 @@ The Crafted commerce documentation!
 
 ## Doc
 
-Live : [SP BOOK](https://bhaveshpp.github.io/spbook)
+Live : [Docs](https://seepossible.github.io/docs)
 
