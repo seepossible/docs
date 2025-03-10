@@ -97,7 +97,7 @@ chmod 644 ./app/etc/*.xml
 
 Usefull code for js debugging
 
-```
+```javascript
 # debug js
 
 var getStackTrace = function() {
