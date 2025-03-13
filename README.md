@@ -1,6 +1,3 @@
-[![Logo](https://seepossible.github.io/docs/assets/gitbook/images/apple-touch-icon-precomposed-152.png)](https://seepossible.github.io/docs)
-
-## Common code and commands for genetal use.
 
 Log
 
@@ -21,6 +18,16 @@ $logger = \Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\Logg
 $logger->info('Price');
 $logger->log(100,print_r($items->getData(),true));
 
+```
+
+Branch pull 
+
+```bash
+rm -rf app/code app/design client* patches lib dev setup phpserver
+
+git checkout HEAD -- app client* patches lib dev setup phpserver pub composer.json composer.lock nginx.conf.sample package.json.sample
+
+git pull origin master
 ```
 
 PHP debugging
